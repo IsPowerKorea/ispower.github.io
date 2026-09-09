@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://github.io
+Sitemap: https://www.ispower.co.kr
