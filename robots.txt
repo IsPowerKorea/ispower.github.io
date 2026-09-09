@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /private/
-Allow: /
-
-Sitemap: http://www.ispower.co.kr
+Allow:/
